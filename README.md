@@ -51,3 +51,12 @@ Create a `.env` file in the `frontend` directory, with the line: `NEXT_PUBLIC_TO
 
 In the `frontend` directory, run `npm run build` then `npm start` (again, you'll need to run `npm install` the very first time). After several moments (or minutes, depending on the speed of your machine), a browser will able to be opened with the frontend running locally.
 The frontend will automatically re-compile and reload in your browser if you change any files in the `frontend/src` directory.
+
+### Screenshots
+<img width="1490" height="915" alt="covey_newtown" src="https://github.com/user-attachments/assets/4572dfc5-2da5-441b-946e-34b9ceb16b13" />
+Town lobby with poker table
+Players assemble in Covey.Town, ready to join the Group 18 poker table and start dealing.
+
+<img width="1758" height="841" alt="covey_poker" src="https://github.com/user-attachments/assets/9b1c3150-5eb5-4620-94b0-b93f1e99ac67" />
+Active poker round
+In-game view showing player cards, bets, chip counts, and pot updates synchronized in real time.
